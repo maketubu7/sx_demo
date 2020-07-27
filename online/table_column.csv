@@ -1,0 +1,83 @@
+ODS_BBSHT	百世汇通	KDGS_DWJC	快递公司_单位简称
+ODS_BBSHT	百世汇通	YDH	运单号
+ODS_BBSHT	百世汇通	JJR1_XM	寄件人_姓名
+ODS_BBSHT	百世汇通	JJR1_YDDH	寄件人_移动电话
+ODS_BBSHT	百世汇通	JJR1_LXDH	寄件人_联系电话
+ODS_BBSHT	百世汇通	JJ2_DZMC	寄件_地址名称
+ODS_BBSHT	百世汇通	SJR1_XM	收件人_姓名
+ODS_BBSHT	百世汇通	SJR1_YDDH	收件人_移动电话
+ODS_BBSHT	百世汇通	SJR1_LXDH	收件人_联系电话
+ODS_BBSHT	百世汇通	SJ1_DZMC	收件_地址名称
+ODS_BBSHT	百世汇通	JJ2_RQSJ	寄件_日期时间
+ODS_BDBWL	德邦物流	KDGS_DWJC	快递公司_单位简称
+ODS_BDBWL	德邦物流	JJR1_XM	寄件人_姓名
+ODS_BDBWL	德邦物流	JJR1_ZJHM	寄件人_证件号码
+ODS_BDBWL	德邦物流	JJR1_YDDH	寄件人_移动电话
+ODS_BDBWL	德邦物流	JJR1_LXDH	寄件人_联系电话
+ODS_BDBWL	德邦物流	JJ2_DZMC	寄件_地址名称
+ODS_BDBWL	德邦物流	LJ_RQSJ	揽件_日期时间
+ODS_BDBWL	德邦物流	FHSJ	发货时间
+ODS_BDBWL	德邦物流	SJR1_ZJHM	收件人_证件号码
+ODS_BDBWL	德邦物流	SJR1_YDDH	收件人_移动电话
+ODS_BDBWL	德邦物流	SJR1_LXDH	收件人_联系电话
+ODS_BDBWL	德邦物流	SJ1_DZMC	收件_地址名称
+ODS_BDBWL	德邦物流	SHSJ	收货时间
+ODS_BDBWL	德邦物流	YDH	运单号
+ODS_BST	申通	KDGS_DWJC	快递公司_单位简称
+ODS_BST	申通	JJR1_ZJHM	寄件人_证件号码
+ODS_BST	申通	JJR1_YDDH	寄件人_移动电话
+ODS_BST	申通	JJR1_LXDH	寄件人_联系电话
+ODS_BST	申通	JJ2_DZMC	寄件_地址名称
+ODS_BST	申通	FHSJ	发货时间
+ODS_BST	申通	SJR1_XM	收件人_姓名
+ODS_BST	申通	SJR1_ZJHM	收件人_证件号码
+ODS_BST	申通	SJR1_YDDH	收件人_移动电话
+ODS_BST	申通	SJR1_LXDH	收件人_联系电话
+ODS_BST	申通	SJ1_DZMC	收件_地址名称
+ODS_BST	申通	SHSJ	收货时间
+ODS_BST	申通	YDH	运单号
+ODS_BYT	圆通	KDGS_DWJC	快递公司_单位简称
+ODS_BYT	圆通	JJR1_MC	寄件人_名称
+ODS_BYT	圆通	JJR1_CYZJDM	寄件人_常用证件代码
+ODS_BYT	圆通	JJR1_ZJLXMC	寄件人_证件类型_名称
+ODS_BYT	圆通	JJR1_ZJHM	寄件人_证件号码
+ODS_BYT	圆通	JJR1_YDDH	寄件人_移动电话
+ODS_BYT	圆通	JJR1_LXDH	寄件人_联系电话
+ODS_BYT	圆通	JJ2_DZMC	寄件_地址名称
+ODS_BYT	圆通	FHSJ	发货时间
+ODS_BYT	圆通	SJR1_XM	收件人_姓名
+ODS_BYT	圆通	SJR1_CYZJDM	收件人_常用证件代码
+ODS_BYT	圆通	SJR1_ZJLXMC	收件人_证件类型_名称
+ODS_BYT	圆通	SJR1_ZJHM	收件人_证件号码
+ODS_BYT	圆通	SJR1_YDDH	收件人_移动电话
+ODS_BYT	圆通	SJR1_LXDH	收件人_联系电话
+ODS_BYT	圆通	SJ1_DZMC	收件_地址名称
+ODS_BYT	圆通	YDH	运单号
+ODS_BZT	中通	KDGS_DWJC	快递公司_单位简称
+ODS_BZT	中通	JJR1_MC	寄件人_名称
+ODS_BZT	中通	JJR1_CYZJDM	寄件人_常用证件代码
+ODS_BZT	中通	JJR1_ZJLXMC	寄件人_证件类型_名称
+ODS_BZT	中通	JJR1_ZJHM	寄件人_证件号码
+ODS_BZT	中通	JJR1_YDDH	寄件人_移动电话
+ODS_BZT	中通	JJR1_LXDH	寄件人_联系电话
+ODS_BZT	中通	JJ2_DZMC	寄件_地址名称
+ODS_BZT	中通	SJR1_XM	收件人_姓名
+ODS_BZT	中通	SJR1_CYZJDM	收件人_常用证件代码
+ODS_BZT	中通	SJR1_ZJLXMC	收件人_证件类型_名称
+ODS_BZT	中通	SJR1_ZJHM	收件人_证件号码
+ODS_BZT	中通	SJR1_YDDH	收件人_移动电话
+ODS_BZT	中通	SJR1_LXDH	收件人_联系电话
+ODS_BZT	中通	SJ1_DZMC	收件_地址名称
+ODS_BZT	中通	SJ1_YZBM	收件_邮政编码
+ODS_BZT	中通	YDH	运单号
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	EXPR_COMP_COM_ABB	快递公司_单位简称	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	EXPR_COMP_COMP_NAME	快递公司_单位名称	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	ORDER_NO	订单_编号	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	SENER_NAME	发件人_姓名	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	SENER_MOB	发件人_移动电话	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	SENER_FIXED_TEL	发件人_固定电话	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	RECE_PER_NAME	收件人_姓名	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	RECE_PER_CTCT_TEL	收件人_联系电话	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	RECE_PER_FIXED_TEL	收件人_固定电话	string
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	SEND_GOOD_TIME	发货时间	dateint
+ODS_SOC_LGS_EXPR_INTEG_INFO	快递信息表	WAYBILL_NO	运单号	string
